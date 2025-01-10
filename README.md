@@ -15,4 +15,4 @@ Press the file selection button at the bottom of the UI to select an ONNX file, 
 netron : https://netron.app/
 
 # Future-plan
-There are many plans to improve Speed, visualization quality (we'll stop just rendering an image), and planning to Introduce more information on this view like edge boldness in graph corresponding to weight size etc..
+There are many plans to improve Speed, visualization quality (we'll stop just rendering an image and planning to correspond to deal with larger onnx files), and planning to Introduce more information on this view like edge boldness in graph corresponding to its weight value etc..
