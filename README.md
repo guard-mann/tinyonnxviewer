@@ -1,6 +1,4 @@
-# Release TinyONNXViewer v1.0
-
-Link : https://tinyonnxviewer.com
+# TinyONNXViewer v1.0
 
 demo ONNX files to upload : `./demoONNX/*.onnx`
 
